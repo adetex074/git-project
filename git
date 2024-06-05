@@ -1,0 +1,7 @@
+#initialize a git local git repo#
+   #create a new dir#
+    "mkdir my-git-project"
+    "cd my-git-project"
+#init a repo into the directory# "git init my-git-project-repo"
+#cd into the local repo#
+  cd my-git-project-repo
